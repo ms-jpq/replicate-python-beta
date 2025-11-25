@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.0.0-beta.4 (2025-11-25)
+
+Full Changelog: [v2.0.0-beta.3...v2.0.0-beta.4](https://github.com/replicate/replicate-python-beta/compare/v2.0.0-beta.3...v2.0.0-beta.4)
+
+### Chores
+
+* **internal:** codegen related update ([ab0983f](https://github.com/replicate/replicate-python-beta/commit/ab0983f58f734a55f2c3cd55adfd4af564aec660))
+
 ## 2.0.0-beta.3 (2025-11-11)
 
 Full Changelog: [v2.0.0-beta.2...v2.0.0-beta.3](https://github.com/replicate/replicate-python-beta/compare/v2.0.0-beta.2...v2.0.0-beta.3)
